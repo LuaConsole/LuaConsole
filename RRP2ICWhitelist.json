@@ -3,6 +3,8 @@
 
 -- RRP2 MODS (ON TRELLO (https://trello.com/b/7dL0x0OI/realistic-roleplay-2-statistics))
 
+              
+[              
 469989839
 449215623
 1378461783
@@ -35,9 +37,9 @@
 1445274492
 994130970
 2355734189
-
+],
 -- RRP2 ADMINS (ON TRELLO (https://trello.com/b/7dL0x0OI/realistic-roleplay-2-statistics))
-
+[
 252014216
 1146165034
 17662095
@@ -82,9 +84,9 @@
 1146817910
 1207464240
 2850931898
-
+],
 -- RRP2 TRELLO STAFF (ON TRELLO (https://trello.com/b/7dL0x0OI/realistic-roleplay-2-statistics))
-
+[
 28661916
 32263402
 524256280
@@ -97,7 +99,8 @@
 2776608036
 38445508
 798637461
-
+],
 -- EXCEPTIONS (FRIENDS OR GIVEN ACCESS)
-
+[
 000000000
+],
