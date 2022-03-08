@@ -1,4 +1,4 @@
-# RRP2ICChecker: made by card, for people on da trello card :100: :weary: :weary:
+# RRP2InventoryChecker: made by card, for people on da trello card :100: :weary: :weary:
 
 ### PUBLIC VERSION RELEASED WHITELIST IS FOR USERS THAT ARE PART OF THE STAFF TEAM OR ARE IN GAME MODS/ADMINS/HEADADMINS ON RRP ETC. 
 
