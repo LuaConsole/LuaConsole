@@ -2,7 +2,6 @@
 -- https://v3rmillion.net/member.php?action=profile&uid=2386065 
 -- do NOT use this maliciously or you will be met with a trello ban.
 
-
 local CoreGui = game:GetService("StarterGui")
 
 CoreGui:SetCore("SendNotification", {
@@ -64,3 +63,7 @@ rconsoleprint('@@GREEN@@')
 local ExploitedMoney = game:GetService("Players").LocalPlayer.Money
     if ExploitedMoney.Value <= 50000 then rconsoleprint('User does not have exploited money (Could be innacurate)')
     end
+
+local message = "I am an extremely cool person!"
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(message,"LocalPlayer")
